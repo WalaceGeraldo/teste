@@ -1,5 +1,7 @@
 # QA Guide for Login NoSQL
 
+## 🌟 Esta alteração foi feita na branch: feature/teste-branch 🌟
+
 This project is a simple Login System using a JSON file as a NoSQL database.
 
 ## Architecture
