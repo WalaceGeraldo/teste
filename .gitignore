@@ -1,6 +1,0 @@
-vendor/
-.env
-.idea/
-.vscode/
-*.log
-composer.lock
